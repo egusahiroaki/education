@@ -3,7 +3,7 @@
 # あれこれ
 
 - clone
--fetch
+- fetch
 - pull
 - add
 - commit
